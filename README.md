@@ -15,7 +15,8 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=00FF9D&center=true&vCenter=true&width=435&lines=Bridging+Physical+Infrastructure+%26+Digital+Systems;AEC+Domain+Expert+%7C+Python+%26+AWS+Developer;Building+Tools+for+Construction+4.0" alt="Typing SVG" />
+  <img src="https://img.shields.io/badge/Connecticut%2C%20USA-FF6B35?style=for-the-badge&logo=location&logoColor=white" alt="Location/>
+  <img src="https://img.shields.io/badge/Available%20Now-00D084?style=for-the-badge&logo=clock&logoColor=white" alt="Availability"/>
 </p>
 
 ---
